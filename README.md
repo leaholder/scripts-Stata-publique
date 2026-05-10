@@ -1,2 +1,7 @@
-# scripts-Stata-publique
-Travaux Stata - économétrie et analyse de données. Réalisés dans le cadre du Magistère d'Evaluation des Politiques Publiques et d'Economie du Développement de l'Université de Bordeaux, et de mon stage à la Direction Régionale de France Travail Nouvelle-Aquitaine. 
+# Stata Scripts — Econometrics & Data Analysis
+
+Projects completed as part of the Master's in Public Policy Evaluation
+and Development Economics at the University of Bordeaux, and during
+an internship at the Regional Office of France Travail (Nouvelle-Aquitaine).
+
+**Tools: Stata**

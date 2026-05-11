@@ -26,7 +26,7 @@ clear all
 set more off
 
 * Adapter le chemin selon l'environnement
-* cd "CHEMIN_VERS_LE_DOSSIER"
+* cd "C:\Users\leaaa\OneDrive\Documents\STAGE"
 
 
 ********************************************************************************
